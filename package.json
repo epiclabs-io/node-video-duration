@@ -1,6 +1,6 @@
 {
   "name": "node-video-duration",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NodeJs module that retrieves the duration of video/audio assets",
   "main": "index.js",
   "scripts": {

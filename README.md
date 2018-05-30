@@ -10,7 +10,7 @@ NodeJs module that retrieves the duration of video/audio assets. Requires `ffpro
 $ npm install --save node-video-duration
 ```
 
-# How to use
+### Usage
 
 ```js
 const getVideoDuration = require('node-video-duration');
